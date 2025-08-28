@@ -1,5 +1,4 @@
-#8 Global and NoLocal
-
+#8 Global Vaserible 
 count = 0
 
 def inc ():
