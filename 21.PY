@@ -18,3 +18,12 @@ print(C)
 my_dict = {"name": "Om", "age": 20}
 my_dict["city"] = "Mumbai"
 print(my_dict["name"])
+
+#5 Heap 
+def heap_sort(arr):
+    import heapq
+    heapq.heapify(arr)  # Convert list to min-heap
+    return [heapq.heappop(arr) for _ in range(len(arr))]
+
+arr = [12, 3, 5, 7, 1]
+print("Heap Sort:", heap_sort(arr))
