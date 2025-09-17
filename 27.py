@@ -12,9 +12,6 @@ plt.title("Scatter Plot: Current vs Latent", fontsize=14, color="blue")
 plt.xlabel("Current Values", fontsize=12, color="green")
 plt.ylabel("Latent Values", fontsize=12, color="purple")
 
-# Add grid and labels
-plt.grid(True, linestyle="--", alpha=0.6)
 
 # Show
 plt.show()
-
