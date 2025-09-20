@@ -1,0 +1,1 @@
+# Create the visiulaztion charts using the matplotlb and scatter librarys in python 
