@@ -1,3 +1,5 @@
+#introduction of matplotlib and 1st code by hand 
+
 import matplotlib.pyplot as plt
 
 # Data
