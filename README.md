@@ -186,6 +186,6 @@ print(df.describe())
 
 ## License
 
-MIT — free to use and adapt.
+MIT — free to use and update.
 
 ---
